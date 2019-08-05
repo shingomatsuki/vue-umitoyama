@@ -9,6 +9,9 @@
       </h2>
       <div class="links">
         <a
+          href="news/"
+          class="button--grey">news</a>
+        <a
           href="menu/"
           class="button--grey">menu</a>
         <a
