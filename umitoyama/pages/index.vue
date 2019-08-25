@@ -6,6 +6,7 @@
         umitoyama
       </h1>
       <h2 class="subtitle">
+        South Indian Canteen
       </h2>
       <div class="links">
         <a
@@ -42,6 +43,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding: 80px;
 }
 
 .title {
