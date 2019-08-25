@@ -13,7 +13,7 @@ export default {
 </script>
 
 <template>
-  <div class="card-list">
+  <div class="card-list flex">
     <card
       class="card"
       v-for="post in posts"

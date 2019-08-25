@@ -52,7 +52,10 @@ module.exports = {
     html: true
   },
 
-  
+  devModules: [
+    '@nuxtjs/tailwindcss'
+  ],
+
   manifest: {
     name: 'project-name',
     lang: 'ja'
