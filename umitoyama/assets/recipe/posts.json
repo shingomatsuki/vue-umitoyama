@@ -1,0 +1,29 @@
+[
+    {
+      "title": "サンバル",
+      "category": "southindian",
+      "tags": ["southindian", "veg", "tamilnadu"],
+      "date": "2019-08-17",
+      "content": "## サンバル\n\n",
+      "slug": "sambar",
+      "id": 1
+    },
+    {
+      "title": "ラッサム",
+      "category": "southindian",
+      "tags": ["southindian", "veg", "tamilnadu"],
+      "date": "2019-08-17",
+      "content": "## ラッサム\n\n",
+      "slug": "rasam",
+      "id": 2
+    },
+    {
+      "title": "チキンコロンブ",
+      "category": "southindian",
+      "tags": ["southindian", "nonveg", "tamilnadu"],
+      "date": "2019-08-20",
+      "content": "## チキンコロンブ\n\n",
+      "slug": "chicken-kuzhambu",
+      "id": 3
+    }
+  ]

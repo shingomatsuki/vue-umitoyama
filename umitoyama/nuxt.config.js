@@ -20,7 +20,11 @@ module.exports = {
   /*
   ** Build configuration
   */
+
+  buildDir: 'functions/nuxt',
   build: {
+    publicPath: '/assets/',
+    extractCSS: true,
     /*
     ** Run ESLint on save
     */
@@ -34,6 +38,24 @@ module.exports = {
         })
       }
     }
+  },
+
+  modules: [
+    ['@nuxtjs/pwa', { icon: false }]
+  ],
+
+
+  modules: [ '@nuxtjs/markdownit' ],
+  markdownit: {
+    injected: true,
+    breaks: true,
+    html: true
+  },
+
+  
+  manifest: {
+    name: 'project-name',
+    lang: 'ja'
   }
 }
 

@@ -17,6 +17,9 @@
         <a
           href="access/"
           class="button--grey">access</a>
+        <a
+          href="recipe/"
+          class="button--green">recipe</a>
       </div>
     </div>
   </section>
