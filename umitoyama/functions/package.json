@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "@nuxtjs/markdownit": "^1.2.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^6.4.2",
     "firebase-admin": "latest",
     "firebase-functions": "latest",
